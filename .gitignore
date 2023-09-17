@@ -1,0 +1,7 @@
+node_modules
+.vscode/*
+!.vscode/settings.json
+.idea
+.DS_Store
+
+styled-system
